@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="dm_api_security_oauth2:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dm_api_security_oauth2.war">
+      <element id="artifact" artifact-name="dm_api_security_oauth2:war exploded" />
+    </root>
+  </artifact>
+</component>
